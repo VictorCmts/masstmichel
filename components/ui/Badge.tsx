@@ -6,15 +6,28 @@ interface BadgeProps {
 }
 
 export default function Badge({ type, className = '' }: BadgeProps) {
-  const colorMap = {
-    Suite: 'bg-[var(--color-terre)] text-white',
-    Chambre: 'bg-[var(--color-pierre)] text-[var(--color-charcoal)]',
+  const styles: Record<'Suite' | 'Chambre', React.CSSProperties> = {
+    Suite: {
+      background: 'var(--lavande-mist)',
+      color: 'var(--lavande-profonde)',
+    },
+    Chambre: {
+      background: 'var(--pierre-chaude)',
+      color: 'var(--brun-mas)',
+    },
   };
 
   return (
     <span
-      className={`inline-block px-3 py-1 text-[0.65rem] font-body font-500 tracking-[0.15em] uppercase ${colorMap[type]} ${className}`}
-      style={{ fontFamily: 'var(--font-body)', fontWeight: 500 }}
+      className={`inline-block px-3 py-1 ${className}`}
+      style={{
+        fontFamily: 'var(--font-body)',
+        fontSize: '0.62rem',
+        fontWeight: 500,
+        letterSpacing: '0.15em',
+        textTransform: 'uppercase',
+        ...styles[type],
+      }}
     >
       {type}
     </span>

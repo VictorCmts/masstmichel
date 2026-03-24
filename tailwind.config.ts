@@ -9,20 +9,58 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
+        cormorant: ['Cormorant Garamond', 'Georgia', 'serif'],
+        jost: ['Jost', 'system-ui', 'sans-serif'],
+        playfair: ['Playfair Display SC', 'Georgia', 'serif'],
+        // Legacy
         display: ['Cormorant Garamond', 'Georgia', 'serif'],
         body: ['Jost', 'system-ui', 'sans-serif'],
       },
       colors: {
-        terre: '#8B6914',
-        pierre: '#C4A882',
-        lavande: '#8B80A0',
-        creme: '#F5F0E8',
+        // Terres & Ocres
+        ocre: {
+          soleil: 'var(--ocre-soleil)',
+          light: 'var(--ocre-light)',
+        },
+        'terre-sienne': 'var(--terre-sienne)',
+        argile: 'var(--argile)',
+        // Lavandes
+        lavande: {
+          profonde: 'var(--lavande-profonde)',
+          douce: 'var(--lavande-douce)',
+          pale: 'var(--lavande-pale)',
+          mist: 'var(--lavande-mist)',
+        },
+        // Pierres & Neutres
+        pierre: {
+          chaude: 'var(--pierre-chaude)',
+          medium: 'var(--pierre-medium)',
+          sombre: 'var(--pierre-sombre)',
+        },
+        garrigue: 'var(--garrigue)',
+        // Verts Provençaux
+        olivier: {
+          DEFAULT: 'var(--olivier)',
+          pale: 'var(--olivier-pale)',
+        },
+        romarin: 'var(--romarin)',
+        cypres: 'var(--cypres)',
+        // Profonds
+        nuit: 'var(--nuit-provence)',
+        encre: 'var(--encre)',
+        'brun-mas': 'var(--brun-mas)',
+        // Accents
+        garance: 'var(--rose-garance)',
+        safran: 'var(--safran)',
+        // Legacy
+        terre: 'var(--ocre-soleil)',
+        or: 'var(--ocre-soleil)',
+        creme: 'var(--pierre-chaude)',
         blanc: '#FEFCF8',
-        charcoal: '#2C2C2C',
-        'gris-doux': '#6B6B6B',
-        or: '#C9A84C',
-        'vert-olive': '#5C6B3A',
-        'rouge-mas': '#8B3A2A',
+        charcoal: 'var(--brun-mas)',
+        'gris-doux': 'var(--garrigue)',
+        'vert-olive': 'var(--olivier)',
+        'rouge-mas': 'var(--rose-garance)',
       },
       spacing: {
         '18': '4.5rem',
@@ -36,6 +74,10 @@ const config: Config = {
       animation: {
         'fade-in': 'fadeIn 0.6s ease-out forwards',
         'slide-up': 'slideUp 0.6s ease-out forwards',
+        shimmer: 'shimmer 3s linear infinite',
+        float: 'float 4s ease-in-out infinite',
+        'pulse-soft': 'pulseSoft 3s ease-in-out infinite',
+        'ken-burns': 'kenBurns 8s ease-out forwards',
       },
       keyframes: {
         fadeIn: {
@@ -46,6 +88,25 @@ const config: Config = {
           '0%': { opacity: '0', transform: 'translateY(30px)' },
           '100%': { opacity: '1', transform: 'translateY(0)' },
         },
+        shimmer: {
+          '0%': { backgroundPosition: '-200% center' },
+          '100%': { backgroundPosition: '200% center' },
+        },
+        float: {
+          '0%, 100%': { transform: 'translateY(0px)' },
+          '50%': { transform: 'translateY(-8px)' },
+        },
+        pulseSoft: {
+          '0%, 100%': { opacity: '1' },
+          '50%': { opacity: '0.6' },
+        },
+        kenBurns: {
+          '0%': { transform: 'scale(1) translate(0, 0)' },
+          '100%': { transform: 'scale(1.08) translate(-1%, -1%)' },
+        },
+      },
+      backdropBlur: {
+        xs: '2px',
       },
     },
   },
