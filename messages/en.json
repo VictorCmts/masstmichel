@@ -1,0 +1,228 @@
+{
+  "nav": {
+    "leMas": "The Mas",
+    "chambres": "Rooms & Suites",
+    "experiences": "Experiences",
+    "galerie": "Gallery",
+    "contact": "Contact",
+    "reserver": "Book Now",
+    "tagline": "Provence"
+  },
+  "hero": {
+    "eyebrow": "Provence · France",
+    "title": "A Haven of Peace in Provence",
+    "subtitle": "Charming B&B & Gîtes at the foot of La Montagnette",
+    "ctaDiscover": "Discover the Mas",
+    "ctaReserve": "Book Now",
+    "scrollHint": "Scroll"
+  },
+  "editorial": {
+    "label": "Our Story",
+    "title": "Where Time Stands Still",
+    "p1": "Nestled in the heart of Provence, Mas Saint Michel is an exceptional residence that invites inner journeying. Its century-old stones tell the story of a region shaped by sun, mistral and the passion of its people.",
+    "p2": "Here, every detail has been crafted to offer you an authentic experience: carefully decorated rooms, a Provençal garden where time drifts gently, and a table where local flavors flourish.",
+    "p3": "Whether you come seeking tranquility, discovery or simply the joy of being present, Mas Saint Michel welcomes you as if you were home.",
+    "quote": "Mas Saint Michel is far more than an accommodation — it is an invitation to rediscover what truly matters.",
+    "quoteAuthor": "The Hosts of Mas"
+  },
+  "stats": {
+    "rooms": "Rooms & Suites",
+    "founded": "Year Founded",
+    "avignon": "km from Avignon",
+    "rating": "Guest Rating"
+  },
+  "rooms": {
+    "label": "Accommodations",
+    "title": "Your Rooms",
+    "subtitle": "Five unique spaces, each carrying the soul of Provence",
+    "seeAll": "View all rooms",
+    "seeRoom": "View room",
+    "capacity": "guests",
+    "from": "From",
+    "surface": "m²",
+    "amenities": {
+      "aircon": "Air Conditioning",
+      "fireplace": "Fireplace",
+      "gardenView": "Garden View",
+      "parkView": "Park View",
+      "montagnettaView": "Montagnette View",
+      "underEaves": "Under the Eaves"
+    }
+  },
+  "sensorial": {
+    "label": "The Experience",
+    "title": "The Mas Saint Michel Experience",
+    "nature": {
+      "title": "Nature & Landscapes",
+      "description": "Hiking in La Montagnette, lavender fields as far as the eye can see, cicadas and mistral"
+    },
+    "gastronomy": {
+      "title": "Gastronomy",
+      "description": "Homemade breakfast, Provençal markets, Michelin-starred restaurants nearby"
+    },
+    "wellbeing": {
+      "title": "Wellness",
+      "description": "Peaceful pool, shaded terraces, moments of pure serenity"
+    }
+  },
+  "gallery": {
+    "label": "Moments",
+    "title": "Instants of Provence",
+    "cta": "View full gallery",
+    "filters": {
+      "all": "All",
+      "chambres": "Rooms",
+      "exterieurs": "Outdoors",
+      "gastronomie": "Gastronomy",
+      "provence": "Provence"
+    }
+  },
+  "territory": {
+    "label": "Around Us",
+    "title": "At the Gates of Provence",
+    "subtitle": "Mas Saint Michel, the ideal starting point to explore the region",
+    "items": {
+      "montagnette": {
+        "title": "Montagnette Hikes",
+        "description": "Wild trails through scrubland and olive groves, just steps from the mas"
+      },
+      "villages": {
+        "title": "Villages of Provence",
+        "description": "Tarascon, Les Baux, Saint-Rémy — the authentic soul of Provence"
+      },
+      "marches": {
+        "title": "Provençal Markets",
+        "description": "Colors, fragrances and flavors of local morning markets"
+      },
+      "gastronomie": {
+        "title": "Gastronomy",
+        "description": "From family cooking to starred tables, Provence on your plate"
+      }
+    }
+  },
+  "testimonials": {
+    "label": "Reviews",
+    "title": "What Our Guests Say",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "newsletter": {
+    "label": "Newsletter",
+    "title": "Experience Provence Differently",
+    "subtitle": "Receive our news, exclusive offers and Provençal inspirations",
+    "placeholder": "Your email address",
+    "submit": "Subscribe",
+    "privacy": "We respect your privacy. Unsubscribe at any time."
+  },
+  "footer": {
+    "tagline": "A haven of peace in Provence",
+    "navigation": "Navigation",
+    "rooms": "Rooms",
+    "contact": "Contact",
+    "address": "Boulbon, Provence-Alpes-Côte d'Azur",
+    "phone": "+33 (0)4 XX XX XX XX",
+    "email": "contact@masstmichel.fr",
+    "copyright": "© 2026 Mas Saint Michel",
+    "legal": "Legal Notice",
+    "cgv": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "leMas": {
+    "label": "Our Story",
+    "heroTitle": "Mas Saint Michel",
+    "heroSubtitle": "An exceptional Provençal residence",
+    "title": "A Story of Passion",
+    "p1": "Mas Saint Michel was born from a family's profound love for Provence and its art of living. This 18th-century residence, carefully and passionately restored, combines the charm of Provençal authenticity with modern comforts.",
+    "p2": "Situated at the foot of la Montagnette, between Avignon and Arles, the mas welcomes you in an exceptional setting: flowering gardens, a peaceful pool, and the open horizon of the Alpilles as backdrop.",
+    "p3": "Each room has been decorated with care, blending vintage furniture, Provençal fabrics and contemporary touches. Our philosophy: sincere hospitality, refined comfort and respect for the environment.",
+    "philosophyTitle": "Our Philosophy",
+    "philosophy1": "Warm and personalized welcome",
+    "philosophy2": "Local and seasonal products at breakfast",
+    "philosophy3": "Respect for the environment and heritage",
+    "philosophy4": "Tailor-made advice to discover the region"
+  },
+  "experiences": {
+    "label": "Discover",
+    "heroTitle": "Experiences",
+    "heroSubtitle": "Let yourself be guided by the soul of Provence",
+    "title": "Live Provence",
+    "subtitle": "Mas Saint Michel offers unique experiences to discover authentic Provence"
+  },
+  "contact": {
+    "label": "Contact Us",
+    "heroTitle": "Contact",
+    "heroSubtitle": "We are here to welcome you",
+    "title": "Get in Touch",
+    "subtitle": "Ask your questions, share your wishes — we reply within 24 hours",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "dates": "Intended dates",
+      "message": "Your message",
+      "submit": "Send message",
+      "success": "Message sent! We will reply within 24 hours.",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Reception",
+      "hoursValue": "8am - 9pm"
+    }
+  },
+  "reservation": {
+    "label": "Reservation",
+    "heroTitle": "Book Your Stay",
+    "heroSubtitle": "Book directly and enjoy the best rates",
+    "directTitle": "Direct Booking",
+    "directText": "By booking directly with us, you benefit from guaranteed best rates and personalized service.",
+    "advantages": "Your advantages",
+    "adv1": "Best rate guaranteed",
+    "adv2": "Flexible cancellation",
+    "adv3": "Personalized advice",
+    "adv4": "Direct contact with the team",
+    "form": {
+      "arrival": "Arrival date",
+      "departure": "Departure date",
+      "guests": "Number of guests",
+      "room": "Preferred room",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Special requests",
+      "submit": "Send my request",
+      "anyRoom": "Any room"
+    }
+  },
+  "galerie": {
+    "label": "Gallery",
+    "heroTitle": "Gallery",
+    "heroSubtitle": "Life moments at Mas Saint Michel",
+    "title": "Instants of Provence"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "chambres": "Rooms & Suites",
+    "experiences": "Experiences",
+    "galerie": "Gallery",
+    "contact": "Contact",
+    "reservation": "Reservation",
+    "leMas": "The Mas"
+  },
+  "room": {
+    "back": "Back to rooms",
+    "alsoLike": "You may also like",
+    "bookNow": "Book this room",
+    "details": "Room details",
+    "description": "Description",
+    "capacity": "Capacity",
+    "bed": "Bedding",
+    "surface": "Surface",
+    "amenities": "Amenities",
+    "from": "From",
+    "perNight": "/ night"
+  }
+}
