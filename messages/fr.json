@@ -1,0 +1,228 @@
+{
+  "nav": {
+    "leMas": "Le Mas",
+    "chambres": "Chambres & Suites",
+    "experiences": "Expériences",
+    "galerie": "Galerie",
+    "contact": "Contact",
+    "reserver": "Réserver",
+    "tagline": "Provence"
+  },
+  "hero": {
+    "eyebrow": "Provence · France",
+    "title": "Un Havre de Paix en Provence",
+    "subtitle": "Chambres d'hôtes & Gîtes de Charme au pied de La Montagnette",
+    "ctaDiscover": "Découvrir le Mas",
+    "ctaReserve": "Réserver",
+    "scrollHint": "Défiler"
+  },
+  "editorial": {
+    "label": "Notre Histoire",
+    "title": "Où le Temps S'arrête",
+    "p1": "Niché au cœur de la Provence, le Mas Saint Michel est une demeure d'exception qui invite au voyage intérieur. Ses pierres centenaires racontent l'histoire d'une région façonnée par le soleil, le mistral et la passion de ses habitants.",
+    "p2": "Ici, chaque détail a été pensé pour vous offrir une expérience authentique : des chambres décorées avec soin, un jardin provençal où le temps s'étire doucement, et une table où les saveurs locales s'épanouissent.",
+    "p3": "Que vous veniez chercher la quiétude, la découverte ou simplement le bonheur d'être là, le Mas Saint Michel vous accueille comme si vous étiez chez vous.",
+    "quote": "Le Mas Saint Michel est bien plus qu'un hébergement — c'est une invitation à redécouvrir l'essentiel.",
+    "quoteAuthor": "Les hôtes du Mas"
+  },
+  "stats": {
+    "rooms": "Chambres & Suites",
+    "founded": "Année de fondation",
+    "avignon": "km d'Avignon",
+    "rating": "Avis clients"
+  },
+  "rooms": {
+    "label": "Hébergements",
+    "title": "Vos Chambres",
+    "subtitle": "Cinq espaces uniques, chacun portant l'âme de la Provence",
+    "seeAll": "Voir toutes les chambres",
+    "seeRoom": "Voir la chambre",
+    "capacity": "personnes",
+    "from": "À partir de",
+    "surface": "m²",
+    "amenities": {
+      "aircon": "Climatisation",
+      "fireplace": "Cheminée",
+      "gardenView": "Vue jardin",
+      "parkView": "Vue parc",
+      "montagnettaView": "Vue Montagnette",
+      "underEaves": "Sous les combles"
+    }
+  },
+  "sensorial": {
+    "label": "L'Expérience",
+    "title": "L'Expérience Mas Saint Michel",
+    "nature": {
+      "title": "Nature & Paysages",
+      "description": "Randonnées dans la Montagnette, lavandes à perte de vue, cigales et mistral"
+    },
+    "gastronomy": {
+      "title": "Gastronomie",
+      "description": "Petit-déjeuner maison, marchés provençaux, restaurants étoilés à proximité"
+    },
+    "wellbeing": {
+      "title": "Bien-être",
+      "description": "Piscine au calme, terrasses ombragées, moments de pure sérénité"
+    }
+  },
+  "gallery": {
+    "label": "Instants",
+    "title": "Instants de Provence",
+    "cta": "Voir la galerie complète",
+    "filters": {
+      "all": "Tout",
+      "chambres": "Chambres",
+      "exterieurs": "Extérieurs",
+      "gastronomie": "Gastronomie",
+      "provence": "Provence"
+    }
+  },
+  "territory": {
+    "label": "Aux Alentours",
+    "title": "Aux Portes de la Provence",
+    "subtitle": "Le Mas Saint Michel, point de départ idéal pour explorer la région",
+    "items": {
+      "montagnette": {
+        "title": "Randonnées Montagnette",
+        "description": "Des sentiers sauvages entre garrigue et oliviers, à deux pas du mas"
+      },
+      "villages": {
+        "title": "Villages de Provence",
+        "description": "Tarascon, Les Baux, Saint-Rémy — l'âme authentique de la Provence"
+      },
+      "marches": {
+        "title": "Marchés Provençaux",
+        "description": "Couleurs, parfums et saveurs des marchés locaux du matin"
+      },
+      "gastronomie": {
+        "title": "Gastronomie",
+        "description": "De la cuisine familiale aux tables étoilées, la Provence dans l'assiette"
+      }
+    }
+  },
+  "testimonials": {
+    "label": "Avis",
+    "title": "Ce Que Disent Nos Hôtes",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "newsletter": {
+    "label": "Newsletter",
+    "title": "Vivez la Provence Autrement",
+    "subtitle": "Recevez nos actualités, offres exclusives et inspirations provençales",
+    "placeholder": "Votre adresse email",
+    "submit": "S'abonner",
+    "privacy": "Nous respectons votre vie privée. Désinscription possible à tout moment."
+  },
+  "footer": {
+    "tagline": "Havre de paix en Provence",
+    "navigation": "Navigation",
+    "rooms": "Chambres",
+    "contact": "Contact",
+    "address": "Boulbon, Provence-Alpes-Côte d'Azur",
+    "phone": "+33 (0)4 XX XX XX XX",
+    "email": "contact@masstmichel.fr",
+    "copyright": "© 2026 Mas Saint Michel",
+    "legal": "Mentions légales",
+    "cgv": "CGV",
+    "privacy": "Politique de confidentialité",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "leMas": {
+    "label": "Notre Histoire",
+    "heroTitle": "Le Mas Saint Michel",
+    "heroSubtitle": "Une demeure provençale d'exception",
+    "title": "Une Histoire de Passion",
+    "p1": "Le Mas Saint Michel est né de l'amour profond d'une famille pour la Provence et son art de vivre. Cette demeure du XVIIIe siècle, restaurée avec soin et passion, allie le charme de l'authenticité provençale aux conforts modernes.",
+    "p2": "Situé au pied de la Montagnette, entre Avignon et Arles, le mas vous accueille dans un cadre d'exception : jardins fleuris, piscine au calme, et l'horizon dégagé des Alpilles en toile de fond.",
+    "p3": "Chaque chambre a été décorée avec soin, mélangeant mobilier chiné, tissus provençaux et touches contemporaines. Notre philosophie : l'hospitalité sincère, le confort raffiné, et le respect de l'environnement.",
+    "philosophyTitle": "Notre Philosophie",
+    "philosophy1": "Accueil chaleureux et personnalisé",
+    "philosophy2": "Produits locaux et de saison au petit-déjeuner",
+    "philosophy3": "Respect de l'environnement et du patrimoine",
+    "philosophy4": "Conseils sur mesure pour découvrir la région"
+  },
+  "experiences": {
+    "label": "À Découvrir",
+    "heroTitle": "Expériences",
+    "heroSubtitle": "Laissez-vous guider par l'âme de la Provence",
+    "title": "Vivez la Provence",
+    "subtitle": "Le Mas Saint Michel vous propose des expériences uniques pour découvrir la Provence authentique"
+  },
+  "contact": {
+    "label": "Nous Contacter",
+    "heroTitle": "Contact",
+    "heroSubtitle": "Nous sommes là pour vous accueillir",
+    "title": "Prenons Contact",
+    "subtitle": "Posez-nous vos questions, partagez vos envies — nous répondons dans les 24h",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "dates": "Dates envisagées",
+      "message": "Votre message",
+      "submit": "Envoyer le message",
+      "success": "Message envoyé ! Nous vous répondrons dans les 24h.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "Email",
+      "hours": "Réception",
+      "hoursValue": "8h00 - 21h00"
+    }
+  },
+  "reservation": {
+    "label": "Réservation",
+    "heroTitle": "Réserver votre séjour",
+    "heroSubtitle": "Réservez directement et bénéficiez des meilleurs tarifs",
+    "directTitle": "Réservation Directe",
+    "directText": "En réservant directement auprès de nous, vous bénéficiez des meilleurs tarifs garantis et d'un accueil personnalisé.",
+    "advantages": "Vos avantages",
+    "adv1": "Meilleur tarif garanti",
+    "adv2": "Flexibilité d'annulation",
+    "adv3": "Conseils personnalisés",
+    "adv4": "Contact direct avec l'équipe",
+    "form": {
+      "arrival": "Date d'arrivée",
+      "departure": "Date de départ",
+      "guests": "Nombre de personnes",
+      "room": "Chambre souhaitée",
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Demandes particulières",
+      "submit": "Envoyer ma demande",
+      "anyRoom": "Toutes les chambres"
+    }
+  },
+  "galerie": {
+    "label": "Galerie",
+    "heroTitle": "Galerie",
+    "heroSubtitle": "Instants de vie au Mas Saint Michel",
+    "title": "Instants de Provence"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "chambres": "Chambres & Suites",
+    "experiences": "Expériences",
+    "galerie": "Galerie",
+    "contact": "Contact",
+    "reservation": "Réservation",
+    "leMas": "Le Mas"
+  },
+  "room": {
+    "back": "Retour aux chambres",
+    "alsoLike": "Vous aimerez aussi",
+    "bookNow": "Réserver cette chambre",
+    "details": "Détails de la chambre",
+    "description": "Description",
+    "capacity": "Capacité",
+    "bed": "Literie",
+    "surface": "Surface",
+    "amenities": "Équipements",
+    "from": "À partir de",
+    "perNight": "/ nuit"
+  }
+}
